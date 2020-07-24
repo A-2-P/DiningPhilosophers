@@ -1,18 +1,18 @@
 public class Main {
 
     public static void main(String[] args) {
-        //Monitor erstellen
+        //Monitor erzeugen
         Monitor monitor = new Monitor();
 
 
-        //Gabeln erstellen
+        //Gabeln erzeugen
         Gabel gabel[] = new Gabel[5];
 
         for (int i = 0; i < gabel.length; i++) {
             gabel[i] = new Gabel();
         }
 
-        //Philosophen erstellen
+        //Philosophen erzeugen
         for (int i = 0; i < gabel.length; i++) {
 
 //            if(i!=0) {
