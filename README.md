@@ -1,2 +1,2 @@
 # DiningPhilosophers
-Darstellung des Problems der Nebenläufigkeit und dessen mögliche Lösung. 
+Darstellung des Problems der Nebenläufigkeit und eine mögliche Lösung. 
